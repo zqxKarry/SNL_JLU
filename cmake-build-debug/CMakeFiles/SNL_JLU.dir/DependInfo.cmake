@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/SNL_JLU/main.cpp" "D:/SNL_JLU/cmake-build-debug/CMakeFiles/SNL_JLU.dir/main.cpp.obj"
+  "D:/SNL_JLU/scanner.cpp" "D:/SNL_JLU/cmake-build-debug/CMakeFiles/SNL_JLU.dir/scanner.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

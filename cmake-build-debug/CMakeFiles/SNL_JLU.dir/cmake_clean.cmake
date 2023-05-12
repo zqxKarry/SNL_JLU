@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SNL_JLU.dir/main.cpp.obj"
+  "CMakeFiles/SNL_JLU.dir/scanner.cpp.obj"
   "SNL_JLU.exe"
   "SNL_JLU.exe.manifest"
   "SNL_JLU.pdb"

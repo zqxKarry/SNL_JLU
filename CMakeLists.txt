@@ -3,4 +3,4 @@ project(SNL_JLU)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(SNL_JLU main.cpp)
+add_executable(SNL_JLU main.cpp util.h scanner.h scanner.cpp global.h)

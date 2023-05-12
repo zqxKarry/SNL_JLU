@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/SNL_JLU/global.h">
+			<Option target="SNL_JLU"/>
+		</Unit>
 		<Unit filename="D:/SNL_JLU/main.cpp">
+			<Option target="SNL_JLU"/>
+		</Unit>
+		<Unit filename="D:/SNL_JLU/scanner.cpp">
+			<Option target="SNL_JLU"/>
+		</Unit>
+		<Unit filename="D:/SNL_JLU/scanner.h">
+			<Option target="SNL_JLU"/>
+		</Unit>
+		<Unit filename="D:/SNL_JLU/util.h">
 			<Option target="SNL_JLU"/>
 		</Unit>
 		<Unit filename="D:/SNL_JLU/CMakeLists.txt">
